@@ -30,7 +30,8 @@
 						"description": "OK"
 					}
 				},
-				"tags": ["Image"]
+				"tags": ["Image"],
+				"security": []
 			}
 		}
 	},
