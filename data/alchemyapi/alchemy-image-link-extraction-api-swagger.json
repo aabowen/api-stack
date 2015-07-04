@@ -36,7 +36,8 @@
 						}
 					}
 				},
-				"tags": ["Image"]
+				"tags": ["Image"],
+				"security": []
 			}
 		}
 	},
