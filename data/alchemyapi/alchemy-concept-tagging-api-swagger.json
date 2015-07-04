@@ -36,7 +36,8 @@
 						}
 					}
 				},
-				"tags": ["Tagging"]
+				"tags": ["Tagging"],
+				"security": []
 			}
 		}
 	},
