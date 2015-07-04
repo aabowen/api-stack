@@ -30,7 +30,8 @@
 						"description": "OK"
 					}
 				},
-				"tags": ["Microformats"]
+				"tags": ["Microformats"],
+				"security": []
 			}
 		}
 	},
