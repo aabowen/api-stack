@@ -36,7 +36,8 @@
 						}
 					}
 				},
-				"tags": ["Combined"]
+				"tags": ["Combined"],
+				"security": []
 			}
 		}
 	},
