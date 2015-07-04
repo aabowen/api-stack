@@ -36,7 +36,8 @@
 						}
 					}
 				},
-				"tags": ["Sentiment Analysis"]
+				"tags": ["Sentiment Analysis"],
+				"security": []
 			}
 		}
 	},
