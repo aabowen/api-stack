@@ -36,7 +36,8 @@
 						}
 					}
 				},
-				"tags": ["Feeds"]
+				"tags": ["Feeds"],
+				"security": []
 			}
 		}
 	},
