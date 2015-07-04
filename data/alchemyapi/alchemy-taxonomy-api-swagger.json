@@ -36,7 +36,8 @@
 						}
 					}
 				},
-				"tags": ["Taxonomy"]
+				"tags": ["Taxonomy"],
+				"security": []
 			}
 		}
 	},
