@@ -112,7 +112,8 @@
 						}
 					}
 				},
-				"tags": ["Keywords"]
+				"tags": ["Keywords"],
+				"security": []
 			}
 		}
 	},
