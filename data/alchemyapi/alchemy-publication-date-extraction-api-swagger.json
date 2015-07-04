@@ -36,7 +36,8 @@
 						}
 					}
 				},
-				"tags": ["Publication Date"]
+				"tags": ["Publication Date"],
+				"security": []
 			}
 		}
 	},
