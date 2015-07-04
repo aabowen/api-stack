@@ -56,7 +56,8 @@
 						}
 					}
 				},
-				"tags": ["News"]
+				"tags": ["News"],
+				"security": []
 			}
 		}
 	},
