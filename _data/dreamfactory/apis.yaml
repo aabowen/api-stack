@@ -1,8 +1,7 @@
 - name: DreamFactory
   description: DreamFactory Software is a private, venture-backed company based in Campbell,
     California, with an additional development center in Atlanta, Georgia. We were founded
-    in 2005 and funded in 2006 by New Enterprise Associates. Today, DreamFactory makes an open source 
-    REST API backend for mobile, web, and IoT applications.
+    in 2005 and funded in 2006 by New Enterprise Associates. Today, DreamFactory makes an open source REST API backend for mobile, web, and IoT applications.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dreamfactory.png
   x-open-ranking: "0"
   tags:
